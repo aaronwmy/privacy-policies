@@ -4,7 +4,7 @@ Last updated: October 7, 2023
 
 ## 1. Information Collection and Use
 
-Our app itself does not collect any user information. We just provide a simple timing function.
+Our app itself does not collect any user information. However, our app uses Google Ad SDK, and Google may collect some information to provide advertising services.
 
 ## 2. Third-Party Services
 
